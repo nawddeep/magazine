@@ -1,0 +1,51 @@
+<svg width="400" height="533" viewBox="0 0 400 533" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#f0e6d2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#d4c5a9;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="400" height="533" fill="url(#grad1)"/>
+  
+  <!-- Mandala pattern -->
+  <g transform="translate(200, 180)" opacity="0.3">
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#8b7355" stroke-width="1"/>
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#8b7355" stroke-width="1"/>
+    <circle cx="0" cy="0" r="40" fill="none" stroke="#8b7355" stroke-width="1"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#8b7355" stroke-width="1"/>
+    
+    <!-- Petal shapes -->
+    <g>
+      <ellipse cx="0" cy="-50" rx="12" ry="35" fill="#8b7355" opacity="0.4"/>
+      <ellipse cx="0" cy="50" rx="12" ry="35" fill="#8b7355" opacity="0.4"/>
+      <ellipse cx="-50" cy="0" rx="35" ry="12" fill="#8b7355" opacity="0.4"/>
+      <ellipse cx="50" cy="0" rx="35" ry="12" fill="#8b7355" opacity="0.4"/>
+    </g>
+  </g>
+  
+  <!-- Magazine title -->
+  <text x="200" y="90" font-family="Georgia, serif" font-size="64" font-weight="300" fill="#5a4a3a" text-anchor="middle" letter-spacing="4">Sadhana</text>
+  <text x="200" y="120" font-family="Georgia, serif" font-size="20" fill="#8b7355" text-anchor="middle" letter-spacing="6">MAGAZINE</text>
+  
+  <!-- Decorative line -->
+  <line x1="100" y1="140" x2="300" y2="140" stroke="#8b7355" stroke-width="1"/>
+  
+  <!-- Lotus flower icon -->
+  <g transform="translate(200, 330)">
+    <ellipse cx="0" cy="0" rx="25" ry="40" fill="#c49a6c" opacity="0.6"/>
+    <ellipse cx="-20" cy="5" rx="20" ry="35" fill="#a67c52" opacity="0.7" transform="rotate(-25 -20 5)"/>
+    <ellipse cx="20" cy="5" rx="20" ry="35" fill="#a67c52" opacity="0.7" transform="rotate(25 20 5)"/>
+    <ellipse cx="0" cy="10" rx="15" ry="25" fill="#8b7355" opacity="0.8"/>
+  </g>
+  
+  <!-- Subtitle -->
+  <text x="200" y="420" font-family="Georgia, serif" font-size="16" fill="#5a4a3a" text-anchor="middle">Spirituality & Mindfulness</text>
+  <text x="200" y="445" font-family="Georgia, serif" font-size="14" fill="#8b7355" text-anchor="middle">For Modern Seekers</text>
+  
+  <!-- Issue info -->
+  <text x="200" y="485" font-family="Arial, sans-serif" font-size="12" fill="#8b7355" text-anchor="middle">March 2024 • Issue 002</text>
+  
+  <!-- Border -->
+  <rect x="30" y="30" width="340" height="473" stroke="#8b7355" stroke-width="1" fill="none"/>
+</svg>

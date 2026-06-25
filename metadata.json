@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Kinetic Editorial Hub",
+  "description": "An interactive, brutalist, and modern responsive publishing platform and digital reader for Vanguard magazine with subscriber dashboard, live issue uploader, search systems, and subscription models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
